@@ -14,3 +14,5 @@ comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
 shortname            :
+
+theme: jekyll-theme-slate

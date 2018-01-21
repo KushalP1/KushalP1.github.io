@@ -1,4 +1,4 @@
-body { margin: 60px auto; width: 70%; }
+body { margin: 60px auto; width: 100%; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
@@ -20,7 +20,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
 ul.posts li { list-style: none; }
 
-.tiledBackground {
+.tilBackground {
   background-image: url(/abc.jpg);
   background-size: 150px;
   width: 300px;
